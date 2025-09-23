@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "2dcbb628-80c9-066c-f33f-c8057b2c6d15",
+  "instructors": {
+    "content": [
+      "e462d837-736a-f30b-0341-8f4ed77b651f",
+      "97f7e924-d81c-b47a-82ca-3be96f5e4425",
+      "14d7596e-95f5-d304-ccf4-4d27531323c8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "20ebb9d7-d0fd-6dfe-9615-20a9ede7c7d9",
+    "website": "15-390-new-enterprises-spring-2013"
+  },
+  "course_title": "New Enterprises",
+  "course_description": "This course covers the process of identifying and quantifying market opportunities, then conceptualizing, planning, and starting a new, technology-based enterprise. Students develop detailed business plans for a startup. It is intended for students who want to start their own business, further develop an existing business, be a member of a management team in a new enterprise, or better understand the entrepreneur and the entrepreneurial process.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.390",
+  "course_image_thumbnail": {
+    "content": "01e6e602-43da-aa98-ef2b-7bf270068482",
+    "website": "15-390-new-enterprises-spring-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Tutorial Videos",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "189bc060-a296-4deb-a128-ea663676fcb7",
+  "site_short_id": "15.390-spring-2013",
+  "site_url_path": "courses/15-390-new-enterprises-spring-2013",
+  "title": "Course Metadata"
+}
