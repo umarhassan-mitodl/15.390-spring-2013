@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides instructions for an assignment to re-write the
   executive summary created for Assignment 2 of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
