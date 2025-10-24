@@ -4,8 +4,6 @@ description: This file contains information regarding assignment 6.
 file: /courses/15-390-new-enterprises-spring-2013/803e3bfdde9220ab786fe8483f620184_MIT15_390S13_assgn6sheet.pdf
 file_size: 247034
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: ''
 file: /courses/15-390-new-enterprises-spring-2013/82feda3bb8885c2fdc796e5fc97085b6_2KpOZ9N2QOQ.srt
 file_size: 3711
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
